@@ -2,7 +2,7 @@
 
 Currently, just chilling, studying and contributing to open source projects. 
 
-Before that, a couple of frontend jobs 🇳🇱. Even before that, a long time working as a geographer 🇧🇷 🇦🇷 🇨🇱 🇨🇴 🇵🇪 🇲🇽.
+Before that, a couple of frontend jobs. Even before that, a long time working as a geographer.
 
 Interested in GIS projects, but also anything else that looks fun.
 
