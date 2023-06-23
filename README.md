@@ -1,6 +1,6 @@
 ### About
 
-Chilling, studying and contributing to open source projects. 
+Just chilling, studying and contributing to open source projects. 
 
 Before that, a couple of frontend jobs. Even before that, a long time working as a geographer.
 
