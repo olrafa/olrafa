@@ -11,5 +11,4 @@ Interested in GIS projects, but also anything else that looks fun.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
 -->
