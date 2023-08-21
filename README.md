@@ -1,7 +1,3 @@
-### About
+[The problem with artificial intelligence? It’s neither artificial nor intelligent](https://www.theguardian.com/commentisfree/2023/mar/30/artificial-intelligence-chatgpt-human-mind)
 
-Interested in GIS, frontend, backend, anything else that looks fun.
-
-<!--
-**olrafa/olrafa** is a ✨ _special_ ✨ repository.
--->
+by Evgeny Morozov
